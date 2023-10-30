@@ -29,7 +29,7 @@ DECLARE SUB MIDPRINT (dastring$)
 
 
 REM -------------------------------NOTES----------------------------------------
-REM Shane Schulte
+REM Sarah Schulte
 REM Project Started: 4/27/10
 REM Finished: ------
 REM QJeweled
@@ -771,7 +771,7 @@ END SUB
 SUB StartScreen
 COLOR 10, 0
 LOCATE 2, 40
-MIDPRINT "Shane Schulte's"
+MIDPRINT "Sarah Schulte's"
 LOCATE 4, 40
 MIDPRINT "Q-Jeweled!"
 COLOR 7, 0
